@@ -1,0 +1,6 @@
+{
+  "name": "Aarogya Care",
+  "description": "Your Healthcare Journey, Made Simple. A patient-centric smart healthcare and hospital coordination platform for India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
